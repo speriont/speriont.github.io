@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://speriont.github.io/sitemap
+Sitemap: https://speriont.github.io/app/sitemap
+Sitemap: https://speriont.github.io/assets/sitemap
+Sitemap: https://speriont.github.io/css/sitemap
+Sitemap: https://speriont.github.io/includes/sitemap
+Sitemap: https://speriont.github.io/item/sitemap
+Sitemap: https://speriont.github.io/src/sitemap
